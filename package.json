@@ -1,0 +1,22 @@
+{
+  "name": "shaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Azizi/shaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian-Azizi/shaders/issues"
+  },
+  "homepage": "https://github.com/Brian-Azizi/shaders#readme",
+  "dependencies": {
+    "three": "^0.142.0"
+  }
+}
